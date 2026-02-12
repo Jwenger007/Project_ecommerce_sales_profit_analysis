@@ -68,7 +68,7 @@ Structured workflow:
 
 ## Q1 – Monthly Profit Trend
 
-**Highest Monthly Profit:** ~€4.00; (May 2025)  
+**Highest Monthly Profit:** ~€4.00M (May 2025)  
 **Lowest Full Month:** ~€2.94M  
 **Average Monthly Profit:** ~€3.31M  
 
