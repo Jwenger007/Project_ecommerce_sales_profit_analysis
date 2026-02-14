@@ -78,6 +78,8 @@ Profit remains highly stable between €3.0M and €3.8M across most months, ind
 The final month shows a drop due to being a partial month.
 
 ![alt text](<charts/Chart 1 (Monthly Total Profit Trend (€)).png>)
+
+- October 2025 reflects a partial month and does not indicate a structural decline.
 ---
 
 ## Q2 – Category & Product Performance
